@@ -7,6 +7,10 @@
   * [Tener en cuenta](#tener-en-cuenta)
   * [Previsualización](#previsualización)
 
+# Recursos utilizados
+
+`pip install PySide2`
+
 # Personalización
 
 El color es definido por el tipo RGBA donde A indica la transparencia del la capa,  teniendo en cuenta que la transparencia de esta va desde `0` a `255`
